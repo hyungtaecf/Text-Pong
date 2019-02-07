@@ -1,0 +1,5 @@
+﻿  Text Pong.c
+c:\users\htcf\source\repos\text pong\text pong\text pong.c(76): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\htcf\source\repos\text pong\text pong\text pong.c(136): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\htcf\source\repos\text pong\text pong\text pong.c(138): warning C4013: 'rand' undefined; assuming extern returning int
+  Text Pong.vcxproj -> C:\Users\HTCF\source\repos\Text Pong\Debug\Text Pong.exe
